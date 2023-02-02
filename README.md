@@ -1,3 +1,1 @@
-my first ReadMe
-I headed a new branch named update_script 
-Deleted the Js on my main branch.
+This is my first ReadMe. This is my alx pre-course repository.
